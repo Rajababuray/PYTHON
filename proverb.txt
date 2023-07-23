@@ -1,0 +1,13 @@
+If the file "proverb.txt" contains the following lines:
+
+Many hands make light work
+
+Honesty is the best policy
+
+Don’t bite the hand that feeds you
+
+Don’t judge a book by its cover
+
+Birds of a feather flock together
+
+Diamonds cut diamondsDiligence is the mother of good fortune
